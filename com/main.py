@@ -26,6 +26,6 @@ image_path = '/home/abhishek/Desktop/Python/TestOCRPy1/resources/image.png'
 with TimerUtils():
     recognized_text = ocr_image(image_path)
 
-print("****Print start***")
+print("****Printing start***")
 print(recognized_text)
-print("****Print End***")
+print("****Printing End***")

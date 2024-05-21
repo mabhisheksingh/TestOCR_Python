@@ -10,12 +10,18 @@ dependencies:
   - c-ares=1.28.1=hd590300_0
   - ca-certificates=2024.3.11=h06a4308_0
   - cairo=1.16.0=hb05425b_3
+  - cffi=1.16.0=py311hb3a22ac_0
+  - cfgv=3.3.1=pyhd8ed1ab_0
+  - distlib=0.3.8=pyhd8ed1ab_0
   - expat=2.6.2=h59595ed_0
+  - filelock=3.14.0=pyhd8ed1ab_0
   - fontconfig=2.14.1=h4c34cd2_2
   - freetype=2.10.4=h0708190_1
   - glib=2.78.4=h6a678d5_0
   - glib-tools=2.78.4=h6a678d5_0
   - icu=73.1=h6a678d5_0
+  - identify=2.5.36=pyhd8ed1ab_0
+  - iniconfig=1.1.1=pyhd3eb1b0_0
   - jpeg=9e=h0b41bf4_3
   - krb5=1.20.1=h143b758_1
   - lcms2=2.15=hfd0df8a_0
@@ -43,6 +49,7 @@ dependencies:
   - libxml2=2.10.4=hfdd30dd_2
   - lz4-c=1.9.4=h6a678d5_1
   - ncurses=6.4=h6a678d5_0
+  - nodeenv=1.8.0=pyhd8ed1ab_0
   - nspr=4.35=h6a678d5_0
   - nss=3.89.1=h6a678d5_0
   - openjpeg=2.4.0=h3ad879b_0
@@ -53,20 +60,30 @@ dependencies:
   - pillow=10.3.0=py311h5eee18b_0
   - pip=24.0=py311h06a4308_0
   - pixman=0.40.0=h36c2ea0_0
+  - platformdirs=4.2.2=pyhd8ed1ab_0
+  - pluggy=1.0.0=py311h06a4308_1
   - poppler=22.12.0=h381b16e_0
   - poppler-data=0.4.12=hd8ed1ab_0
+  - pre-commit=3.7.1=pyha770c72_0
   - pthread-stubs=0.4=h36c2ea0_1001
+  - pycparser=2.22=pyhd8ed1ab_0
   - pytesseract=0.3.13=pyhd8ed1ab_0
+  - pytest=7.4.0=py311h06a4308_0
   - python=3.11.9=h955ad1f_0
+  - python_abi=3.11=2_cp311
+  - pyyaml=6.0.1=py311h459d7ec_1
   - readline=8.2=h5eee18b_0
   - setuptools=69.5.1=py311h06a4308_0
   - sqlite=3.45.3=h5eee18b_0
   - tk=8.6.14=h39e8969_0
   - tzdata=2024a=h04d1e81_0
+  - ukkonen=1.0.1=py311hdb19cb5_0
+  - virtualenv=20.26.2=pyhd8ed1ab_0
   - wheel=0.43.0=py311h06a4308_0
   - xorg-libxau=1.0.11=hd590300_0
   - xorg-libxdmcp=1.1.3=h7f98852_0
   - xz=5.4.6=h5eee18b_1
+  - yaml=0.2.5=h7f98852_2
   - zlib=1.2.13=h5eee18b_1
   - zstd=1.5.5=hc292b87_2
 prefix: /home/abhishek/anaconda3/envs/TestOCRPy1
